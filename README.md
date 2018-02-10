@@ -1,15 +1,14 @@
-# TS3-BanHelper
+## TS3-BanHelper
 
 TeamSpeak3 name Restrict for prevent logins with names like admin system moderator etc.
 
 
 
-You can run his code at:
+#####You can run his code at:
 http://sandbox.onlinephpfunctions.com/code/03ce0fefca9c8945d3e3e318b01a6df6e18dd228
 
-
-
-- recommend by me - 
+```
+- recommend by me -
 .*[aA4@][dD][mM][iI1][nN].*
 .*[sS][eE3][rR][vV][eE3][rR].*
 .*[mM][oO0][dD][eE3][rR][aA4@][tT][oO0][rR].*
@@ -22,6 +21,6 @@ recommend:
 Default name patern / allowed chars - .*.*[^A-Za-z0-9\s_-\(\)]+
 Disable [] characters.*[\[\]].*
 
-- generated costume value - 
+- generated costume value -
 .*[cC][oO0][oO0][oO0][kK][iI1][eE3][mM][oO0][nN][sS][tT][eE3][rR].*
-
+```
