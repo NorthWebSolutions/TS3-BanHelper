@@ -1,0 +1,8 @@
+﻿name=.*[aA4@][dD][mM][iI1][nN].* duration=0 banreason=ILLEGAL\sNAME 
+name=.*[mM][oO0][dD][eE3][rR][aA4@][tT][oO0][rR].* duration=0 banreason=ILLEGAL\sNAME 
+name=.*[oO0][wW][nN][eE3][rR].* duration=0 banreason=ILLEGAL\sNAME 
+name=.*[sS][eE3][rR][vV][eE3][rR].* duration=0 banreason=ILLEGAL\sNAME 
+name=.*[sS][yY][sS][tT][eE3][mM].* duration=0 banreason=ILLEGAL\sNAME 
+name=.*[tT][eE3][aA4@][mM][sS][pP][eE3][aA4@][kK][uU][sS][eE3][rR].* duration=0 banreason=ILLEGAL\sNAME\s-\sPlease\suse\sa\snice\snick\sname\s:) 
+name=.*[^A-Za-z0-9\\s_-\\(\\)]+ duration=0 banreason=ILLEGAL\sNAME\s-\sIllegal\scharacter\sin\syou\snick\sname,\splease\schange\sit! 
+name=.*[\\[\\]].* duration=0 banreason=ILLEGAL\sNAME\s-\sIllegal\scharacter\sin\syou\snick\sname,\splease\schange\sit! 
