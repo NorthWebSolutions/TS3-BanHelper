@@ -1,16 +1,16 @@
-## TS3-BanHelper for ** TeamSpeak3 server admins **
+## TS3-BanHelper for **TeamSpeak3 server admins**
 
 #### Name Restrict to prevent logins with names like admin, system, moderator, etc.
+
 The generated patterns, can be prevent tricky logins, like the look like realistic admin names `(Admin, *aDmin*, @dmin, suparAdmin )` etc.
+
 You can add these patterns in your TeamSpeak3 servers Ban List `(CTRL+SHIFT+B)` / + ADD / REGULAR EXPRESSION.
 
-
-
 ## usage:
-** Default **
+**Default:**
 ` Banhelper->index(); `
 
-** Translate your costume STRING: **
+**Translate your costume STRING:**
 ` Banhelper->index('yourStringToTranslateTS3regexLanguage'); `
 
 ##### You can run and change this code at:
@@ -27,7 +27,7 @@ http://sandbox.onlinephpfunctions.com/code/03ce0fefca9c8945d3e3e318b01a6df6e18dd
 
 
 recommend:
-Default name patern / allowed chars - .*.*[^A-Za-z0-9\s_-\(\)]+
+Default name pattern / allowed chars - .*.*[^A-Za-z0-9\s_-\(\)]+
 Disable [] characters.*[\[\]].*
 
 - generated costume value: coookiemonster -
@@ -35,6 +35,6 @@ Disable [] characters.*[\[\]].*
 ```
 
 
-#### Import my recomendation for Yatqa
+#### Import my recommendation for Yatqa
 save Yatqa_banlist.txt
 Login to your server / ban list / Import / open the downloaded file.
