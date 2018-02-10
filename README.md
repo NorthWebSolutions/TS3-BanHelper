@@ -2,9 +2,17 @@
 
 TeamSpeak3 name Restrict for prevent logins with names like admin system moderator etc.
 
+## usage:
+** Default **
+` Banhelper->index(); `
 
 
-#####You can run his code at:
+
+
+** Translate your costume STRING: **
+` Banhelper->index('yourStringToTranslateTS3regexLanguage'); `
+
+##### You can run his code at:
 http://sandbox.onlinephpfunctions.com/code/03ce0fefca9c8945d3e3e318b01a6df6e18dd228
 
 ```
